@@ -1,8 +1,8 @@
 # shellScripting
 
-## this is a **Bash** shell scripting code which do the following
+## this is a **Bash** shell scripting code that do the following
 
-it that takes 3 arguments:
+it takes 3 arguments:
 
 * Directory
 
